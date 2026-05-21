@@ -1,0 +1,16 @@
+{
+    "name": "migue/document_management_system",
+    "description": "Sistema de gestión de documentos",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "", //poner nombre del autor
+            "email": ""//correo del autor
+        }
+    ],
+    "minimum-stability": "stable"
+}
