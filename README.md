@@ -25,8 +25,21 @@ Sistema web tipo CRUD para gestión de archivos
 ### Captura del dashboard desde las sesión de adminstrador
 ![Dashboard de admin](c_dashboard_admi.png)
 
-### Captura del dasboard del usuario
+### Captura del dashboard desde la sesión de usuario
 ![Dashboard de usuario](c_dashboard.png)
 
-### Cpatura del panel de notificaciones
+### Captura del panel de notificaciones
 ![Captura notificaciones](c_notificaciones.png)
+
+### Captura de áreas del instututo
+![Captura de áreas](c_areas.png)
+
+### Captutra de gestión de usuarios
+![Gestión de usuarios](c_gestion_usuarios.png)
+
+### Captura de permisos de usuarios
+![Permios de usuarios](c_permisos.png)
+
+### Captura cargar documento
+![Cargar documento](cargar_documento.png)
+
