@@ -41,5 +41,8 @@ Sistema web tipo CRUD para gestión de archivos
 ![Permios de usuarios](c_permisos.png)
 
 ### Captura cargar documento
-![Cargar documento](cargar_documento.png)
+![Cargar documento](c_carga.png)
+
+## Video del funcionamieto del sistema 
+[Ver demo del sistema](https://www.youtube.com/watch?v=RnEwe2z_lwA)
 
